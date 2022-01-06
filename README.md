@@ -14,10 +14,20 @@ Repositório de soluções dos desafios da plataforma Beecrowd (URI Online Judge
   <summary> Iniciante </summary>
   <br>
 
-  | Problema | Título | Nível | Linguagem |
-  |:---: | --- | :---: | :---: |
-  | 1000 | Hello World! | 5 | C# |
-  | 1001 | Extremamente Básico | 4 | C# |
+| Problema | Título | Nível | Linguagem |
+|:---: | --- | :---: | :---: |
+| 1000 | Hello World! | 5 | C# |
+| 1001 | Extremamente Básico | 4 | C# |
+| 1002 | Área do Círculo | 4 | C# |
+| 1003 | Soma Simples | 1 | C# |
+| 1004 | Produto Simples | 1 | C# |
+| 1005 | Média 1 | 2 | C# |
+| 1006 | Média 2 | 1 | C# |
+| 1007 | Diferença | 1 | C# |
+| 1008 | Salário | 2 | C# |
+| 1009 | Salário com Bônus | 2 | C# |
+| 1010 | Cálculo Simples | 3 | C# |
+
   
 
 </details>
