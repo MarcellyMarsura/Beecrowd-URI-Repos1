@@ -16,7 +16,7 @@ Repositório de soluções dos desafios da plataforma Beecrowd (URI Online Judge
 
   | Problema | Título | Nível | Linguagem |
   |:---: | --- | :---: | :---: |
-  | 1001 | Hello World! | 1 | C# |
+  | [1000] (https://github.com/MarcellyMarsura/Beecrowd-URI-Repos1/blob/7d3cf88f3ecfdcc6f76bdca52a6ac7b9e7dbbbf9/Desafios/1000.cs) | Hello World! | 1 | C# |
 
 </details>
 
